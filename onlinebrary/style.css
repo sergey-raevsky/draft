@@ -1,0 +1,44 @@
+body {
+    background-image: url(./img/ahoy1.jpg);  
+    margin: 0px;    
+}
+  nav ul li {
+    display: inline;
+    margin-left: 26px;
+    font-size: 1.3em;
+}
+
+.list-group li{
+    border: 0px;
+    background-color: transparent;
+}
+
+
+.list-group-item {
+    font-size: 1.2em;
+}
+
+.mylibrary {
+    font-size: 1.6em;
+}
+
+.list-of-books>.col-3>a img {
+    max-height: 350px;
+}
+.list-of-books>.col-3 ul li{
+    list-style-type: none;
+    display: inline;    
+}
+
+.navbar {
+    height: 100px;
+}
+
+.navbar.footer {
+    margin-top: 100px;
+}
+
+.mylibrary .btn {
+    width: 100px;
+}
+
